@@ -2,5 +2,8 @@ Revision history for CPAN-Test-Dummy-Perl5-DevRelease
 
 {{$NEXT}}
 
+0.002  2016-10-21 11:34:33 JST
+    - (dev release) bump for dev relase
+
 0.001  2016-10-21 11:32:44 JST
-    - Initial release
+    - (stable release) Initial release
